@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Tx",
+    "year": 1954,
+    "description": "Tx",
+    "authors": [
+      {
+        "surname": "Test",
+        "name": "Dos",
+        "patronymic": "Test",
+        "birthDate": "2022-12-12"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Criminal"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
+  }
+]
